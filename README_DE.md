@@ -14,7 +14,7 @@
 
 ### 🌐 Die einzige offizielle Website: **[ccswitch.io](https://ccswitch.io)**
 
-[English](README.md) | [中文](README_ZH.md) | [日本語](README_JA.md) | Deutsch | [Changelog](CHANGELOG.md)
+[English](README_EN.md) | [中文](README.md) | [日本語](README_JA.md) | Deutsch | [Changelog](CHANGELOG.md)
 
 </div>
 
