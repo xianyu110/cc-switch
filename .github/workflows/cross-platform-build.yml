@@ -95,7 +95,7 @@ jobs:
           path: release-assets
           merge-multiple: true
       - name: Upload assets to existing prerelease
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: v3.16.5
           prerelease: true
